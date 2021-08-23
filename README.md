@@ -1,18 +1,15 @@
 
-# 공익인간 : 사회복무요원을 위한 월급 관리 어플리케이션
+<div align='center'>
+  <h1>공익인간 (iOS)</h1>
+  <p>사회복무요원을 위한 휴가, 월급 관리 어플리케이션</P>
+</div>
 
-## Related
+## Intro
+다운로드 링크 [Android](https://play.google.com/store/apps/details?id=com.project.realproject&hl=ko&gl=US)  /  [iOS](https://apps.apple.com/kr/app/공익인간/id1551639457)
 
 
 ## Dev Story of 공익인간
 
-[(Intro) 싼 것만 물어드려요 : 캐치딜 서비스!]: https://kbs4674.tistory.com/113
-[캐치딜 백엔드 개발이야기 : 좌충우돌 서버운영 이야기]: https://kbs4674.tistory.com/114
-[캐치딜 백엔드 개발이야기 : 문서화]: https://kbs4674.tistory.com/115
-[캐치딜 백엔드 개발이야기 : 디자이너와의 협업]: https://kbs4674.tistory.com/116
-[캐치딜 백엔드 개발이야기 : 크롤링]: https://kbs4674.tistory.com/117
-[캐치딜 백엔드 개발이야기 : Restful API 설계의 다양한 고민]: https://kbs4674.tistory.com/118
-[캐치딜 백엔드 개발이야기 : 나에게 맞는 합리적인 서버 비용을 찾아서..]: https://kbs4674.tistory.com/125
 
 
 ##  Intro
