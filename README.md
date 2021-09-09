@@ -9,7 +9,8 @@
 
 
 ## Dev Story of 공익인간
-
+- 리팩토링 과정
+- 새로운 기능 추가 과정
 
 
 ##  Intro
@@ -17,7 +18,4 @@
 
 ## Tech Stack
 
-## Etc
-
-## Process
 
