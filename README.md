@@ -24,9 +24,13 @@
 - iOS
   - 누적 판매량 약 **1.5만**
 
-## Intro
+## 🔭 Introduction
 
-- TODO: 휴가 등록, 복무지 리뷰 gif
+<span>
+  <img src="https://user-images.githubusercontent.com/53747019/156013657-93efd280-989d-4a23-b3b0-e32023883b16.gif" width="220" />
+  &nbsp;  &nbsp;
+  <img src="https://user-images.githubusercontent.com/53747019/156014627-433a7935-6132-44ce-b5fd-f255c9ca9703.gif" width="220" />
+</span>
 
 ### 프로젝트 소개
 
@@ -44,14 +48,14 @@
 
 ### CI/CD
 
+
 - TODO: png 추가
 
 ### ERD
 - TODO: png 추가
 
-## Develop story
+## 🔖 Develop Story
 
-- 리팩토링 과정
-  - 컴포넌트
-  - 디자인 시스템
-- 새로운 기능 추가 과정
+- [디자인 시스템 및 다크모드 추가](https://hoyoungmoon.github.io/javascript/react-native/side-project/gongikHumanV2-refactor-before-upgrade/) 
+- [회원가입 및 로그인 유지](https://hoyoungmoon.github.io/javascript/react-native/side-project/gongikHumanV2-add-login/)
+- [브랜치 전략 및 배포 자동화 구현](https://hoyoungmoon.github.io/javascript/react-native/side-project/gongikHumanV2-set-automatic-deploy/)
