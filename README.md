@@ -21,11 +21,8 @@
 [![Medium Badge](http://img.shields.io/badge/iOS-download-12100E?style=for-the-badge&logo=apple&link=https://apps.apple.com/kr/app/공익인간/id1551639457)](https://apps.apple.com/kr/app/공익인간/id1551639457)
 
 `2022.02 기준`
-- 안드로이드
-  - 활성 사용자 약 **2만명** 
-  - MAU 약 **1.6만** / DAU 약 **3.7천**
-- iOS
-  - 누적 판매량 약 **1.5만**
+- 안드로이드 - MAU 약 **1.6만** / DAU 약 **3.7천**
+- iOS - 누적 판매량 약 **1.5만**
 
 ## 🔭 Introduction
 
@@ -53,7 +50,7 @@
 
 ### Architecture
 
-- TODO: png 추가
+<img width="800" alt="스크린샷 2022-03-01 오후 9 41 11" src="https://user-images.githubusercontent.com/53747019/156170806-c1aaba53-c1fd-4c28-86bc-39ecd4cd3c53.png">
 
 ### CI/CD
 
