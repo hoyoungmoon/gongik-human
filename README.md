@@ -57,7 +57,8 @@
 <img width="700" alt="스크린샷 2022-03-14 오전 4 21 32" src="https://user-images.githubusercontent.com/53747019/158075814-f7b5e801-8595-440d-8f30-20041feb1c1e.png">
 
 ### ERD
-- TODO: png 추가
+<img width="600" alt="스크린샷 2022-03-14 오전 4 21 32" src="https://user-images.githubusercontent.com/53747019/158076899-045aea67-6d01-4931-aa5d-9931600d4a55.png">
+
 
 ## 🔖 Develop Story
 
