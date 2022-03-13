@@ -14,6 +14,7 @@
 </p>
 <p></p>
 
+
 ## 🚀 Downloads
 
 [![Medium Badge](http://img.shields.io/badge/android-download-12100E?style=for-the-badge&logo=android&link=https://play.google.com/store/apps/details?id=com.project.realproject&hl=ko&gl=US)](https://play.google.com/store/apps/details?id=com.project.realproject&hl=ko&gl=US)
@@ -49,13 +50,11 @@
 - AWS EC2, RDS, S3, Docker
 
 ### Architecture
-
-<img width="800" alt="스크린샷 2022-03-01 오후 9 41 11" src="https://user-images.githubusercontent.com/53747019/156170806-c1aaba53-c1fd-4c28-86bc-39ecd4cd3c53.png">
+<img width="700" alt="스크린샷 2022-03-14 오전 12 11 43" src="https://user-images.githubusercontent.com/53747019/158066320-43458303-0353-419d-938b-4c0dc2870872.png">
 
 ### CI/CD
 
-
-- TODO: png 추가
+<img width="700" alt="스크린샷 2022-03-14 오전 4 21 32" src="https://user-images.githubusercontent.com/53747019/158075814-f7b5e801-8595-440d-8f30-20041feb1c1e.png">
 
 ### ERD
 - TODO: png 추가
