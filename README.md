@@ -45,14 +45,14 @@
 
 ### Tech Stack
 
-- React Native
-- Node.js, Sequelize, MySQL
-- AWS EC2, RDS, S3, Docker
+- Client - `React Native`
+- Server - `Node.js`, `Sequelize`, `MySQL`
+- DevOps - `AWS EC2`, `RDS`, `Docker`
 
 ### Architecture
 <img width="700" alt="스크린샷 2022-03-14 오전 12 11 43" src="https://user-images.githubusercontent.com/53747019/158066320-43458303-0353-419d-938b-4c0dc2870872.png">
 
-### 배포자동화
+### CD
 
 <img width="700" alt="스크린샷 2022-03-14 오전 4 21 32" src="https://user-images.githubusercontent.com/53747019/158075814-f7b5e801-8595-440d-8f30-20041feb1c1e.png">
 
