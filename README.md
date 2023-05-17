@@ -62,6 +62,7 @@
 
 ## 🔖 Develop Story
 
+- [네이티브 위젯 구현하기](https://hoyoungmoon.github.io/react-native/widget-module-iOS/) 
 - [디자인 시스템 및 다크모드 추가](https://hoyoungmoon.github.io/javascript/react-native/side-project/gongikHumanV2-refactor-before-upgrade/) 
 - [회원가입 및 로그인 유지](https://hoyoungmoon.github.io/javascript/react-native/side-project/gongikHumanV2-add-login/)
 - [브랜치 전략 및 배포 자동화 구현](https://hoyoungmoon.github.io/javascript/react-native/side-project/gongikHumanV2-set-automatic-deploy/)
